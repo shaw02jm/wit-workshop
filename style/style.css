@@ -1,0 +1,10 @@
+body {
+	background-color: green;
+}
+.plain-list {
+	list-style: none;
+} 
+#ProfileImage {
+	width: 600px;
+	float: right;
+}
